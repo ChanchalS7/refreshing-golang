@@ -1,0 +1,1 @@
+In this question, we are building a tool that analyzes the frequency of words in a given text. You need to implement a function `wordFrequency` that receives a string and returns a map with the frequency of each word in the string.
